@@ -71,14 +71,6 @@ https://api.openweathermap.org/data/2.5/weather
 - UI/UX improvements  
 - Clean code structure and error handling  
 
----
-
-## 📬 Contact
-
-For collaboration or feedback, feel free to reach out on LinkedIn.  
-**LinkedIn:** _Add your profile link_
-
----
 
 
 
